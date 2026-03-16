@@ -14,7 +14,7 @@
         pname = "custom-server-ui-payload-generator";
         version = "0.0.0-dev";
         src = self;
-        npmDepsHash = "sha256-Z1eXZW9Fyv2xKFhpV8f+FgdIpqYMLvVBrC+CCtZRBv0="; # TODO: set correct hash
+        npmDepsHash = "sha256-Z1eXZW9Fyv2xKFhpV8f+FgdIpqYMLvVBrC+CCtZRBv0=";
         dontNpmBuild = false;
         npmBuildScript = "build";
         meta = {
